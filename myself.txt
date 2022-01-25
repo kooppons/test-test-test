@@ -1,6 +1,0 @@
-Name:      Alberto
-Company:   Labadi Kenkey
-Location:  Tower Hamlets
-Date:      25 Jan 2022
-Message: "hello world"
-2>/dev/null
