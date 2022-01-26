@@ -3,3 +3,8 @@ Company:   Bboxx
 Location:  Midlands
 date:      22 Jan 2022
 Message:  "Hello team, this is Alberto"
+
+Name:      C. Akyina
+Company:   UG
+Location:  Accra
+date:      26 Jan 2022
