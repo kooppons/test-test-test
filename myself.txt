@@ -3,3 +3,10 @@ Company:   Bboxx
 Location:  Midlands
 date:      22 Jan 2022
 Message:  "Hello team, this is Alberto"
+
+Name: 		Kwabena Owusu (Kobe)
+Company: 	Bboxx
+Location: 	Kigali, Rwanda
+Date:		05 February 2022
+Message:	"Be kind"
+
