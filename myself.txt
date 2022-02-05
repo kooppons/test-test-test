@@ -8,3 +8,10 @@ Name:      C. Akyina
 Company:   UG
 Location:  Accra
 date:      26 Jan 2022
+
+Name: 		Kwabena Owusu (Kobe)
+Company: 	Bboxx
+Location: 	Kigali, Rwanda
+Date:		05 February 2022
+Message:	"Be kind"
+
